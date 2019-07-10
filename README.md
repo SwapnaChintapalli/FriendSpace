@@ -1,5 +1,7 @@
 #FriendSpace - Web Programming Languages Project
+
 [Swapna Chintapalli - sxc180048@utdallas.edu ]
+
 Social Media Requirements:
 
 	User signup: Register a new user to the system. 
